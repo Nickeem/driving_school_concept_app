@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "139031327341",
+    "project_id": "nicks-driving-test-app",
+    "storage_bucket": "nicks-driving-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139031327341:android:f4bb2f274f32f7bb5a4564",
+        "android_client_info": {
+          "package_name": "com.ds_app.ds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139031327341-9debq65ur76kg8n0pkv3fedbo5pjdk2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHb1cZmIBgUakfeWPp1oqYFMiplQa8uQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139031327341-9debq65ur76kg8n0pkv3fedbo5pjdk2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139031327341-nf1vv7ioiv9atc5n43hdu3neoa28c1tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
