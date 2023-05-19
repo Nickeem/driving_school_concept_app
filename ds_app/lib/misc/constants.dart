@@ -1,0 +1,1 @@
+const double systemTextScaleFactorOption = -1;
